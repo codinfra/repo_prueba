@@ -1,6 +1,6 @@
 # Repo de Prueba
 
-Este repositorio se utiliza para practicar conceptos básicos de **Git** y **GitHub**.
+Este repositorio se utiliza para practicar conceptos básicos de **Git** y **GitHub** en proyectos de python.
 
 ## Contenido
 
